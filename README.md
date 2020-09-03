@@ -1,19 +1,19 @@
-# _While Loop_
+# _Loop Through an Array_
 
-#### _This short program demonstrates how to write a while loop using a simple random number generator function. August 2020_
+#### _This program is a short example of how to use a for loop to iterate over an array. September 2020_
 
 #### By _**Elizabeth Eymann**_
 
 ## Description
 
-_This short program is a beginner's showcase on how to write a while loop. A simple random number generator function is used to make the while loop run. The loop is currently limited to a value of ten, meaning it can only run ten times. However, the programmer can change the number of loops the program runs simply by changing the value of the argument that is passed into the parameter called 'upper'._
+_This project comes from teamtreehouse.com. In this short program, I use a for loop to iterate over an array of song names, and innerHTML to dynamically display them on a webpage. You can add to the playlist by updating the code in the file called playlist-1.js._
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _A folder titled "while-loops" will appear on your desktop._
+* _A folder titled "array-loop" will appear on your desktop._
 * _Click into the folder and open the file titled "index.html"_
-* _You will need to look in the console in order to see the program._
+* _You should see the playlist displayed on the webpage._
 * _Enjoy my program!_
 
 ## Technologies Used
