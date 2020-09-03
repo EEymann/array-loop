@@ -14,3 +14,10 @@ function createListItems(arr) { //The parameter arr is like a placeholder for an
   }
   return items;
 }
+
+//Dynamically insert the values of playlist into the HTML <main> element
+document.querySelector('main').innerHTML = `
+  <ol>
+    ${createListItems(playlist)}
+  </ol>
+`;
